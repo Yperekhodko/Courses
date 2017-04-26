@@ -1,7 +1,13 @@
 package Courses;
 
+import java.util.ArrayList;
+
 /**
- * Created by yperekhodko on 26.04.2017.
+ * Считать количество лекций за период. фильтровать по преподавателям, группам курсам
  */
+
+
+
 public class Lessons {
+    private ArrayList <Lesson> lessons;
 }

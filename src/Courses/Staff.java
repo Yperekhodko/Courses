@@ -1,7 +1,7 @@
 package Courses;
 
-/**
- * Created by yperekhodko on 26.04.2017.
- */
+import java.util.ArrayList;
+
 public class Staff {
+    private ArrayList <Employee> employees;
 }

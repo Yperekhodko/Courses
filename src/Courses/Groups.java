@@ -1,7 +1,17 @@
 package Courses;
 
-/**
- * Created by yperekhodko on 26.04.2017.
- */
+//По відношенню до якого курсу;
+//        Сформована / не сформована;
+//        Кількість студентів;
+//        Дати та час занять;
+//        Локація проведення;
+
+import java.util.ArrayList;
+
 public class Groups {
+    private ArrayList <Student> students;
+    private Employee employee;
+    private Schedule schedule;
+
+
 }
